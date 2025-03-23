@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Boldonse&family=Oleo+Script:wght@400;700&family=Oswald:wght@200..700&display=swap');
+
+.solar-system{
+    width:"500px";
+    height:"300px";
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background-color: black;
+    color:whitesmoke
+}
+.solar-system-title{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color:white;
+}
+h1{
+    font-family: "Oswald", sans-serif;
+    font-size: 50px;
+}
